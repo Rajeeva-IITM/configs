@@ -1,0 +1,6 @@
+{
+  "autoupdate:channel": "latest",
+  "term:fontsize": 16,
+  "term:localshellpath": "C:\\Users\\loksh\\scoop\\shims\\nu.exe",
+  "window:showmenubar": false
+}
